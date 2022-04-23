@@ -1,0 +1,29 @@
+{
+  "action_submit": "Iscriviti",
+
+  "gender_male": "Uomo",
+  "gender_female": "Donna",
+  "gender_other": "Altro",
+
+  "hint_first_name": "Nome",
+  "hint_last_name": "Cognome",
+  "hint_birth_date": "Data di Nascita",
+  "hint_books_picker": "Scegli una quantità",
+
+  "label_first_name": "Nome",
+  "label_last_name": "Cognome",
+  "label_birth_date": "Data di Nascita",
+  "label_gender": "Genere",
+  "label_books_picker": "Numero di Libri",
+
+  "label_summary": "Riepilogo",
+  "label_price": "Prezzo",
+
+  "title_summary_page": "Riepilogo",
+  "title_subscription_page": "Iscriviti",
+
+  "label_books_number": "{count,plural, =0{Non hai preso alcun libro} =1{Hai preso un libro} other{Hai preso {count} libri}}",
+  "label_welcome_male": "Benvenuto {firstName}!",
+  "label_welcome_female": "Benvenuta {firstName}!",
+  "label_welcome_other": "Ciao {firstName}!"
+}

@@ -1,0 +1,106 @@
+{
+  "action_submit": "Submit",
+  "@action_submit": {
+    "description": "The text of the submit button in the subscribe page"
+  },
+  "gender_male": "Male",
+  "@gender_male": {
+    "description": "A label shown to describe the gender.male enum value"
+  },
+  "gender_female": "Female",
+  "@gender_female": {
+    "description": "A label shown to describe the gender.female enum value"
+  },
+  "gender_other": "Other",
+  "@gender_other": {
+    "description": "A label shown to describe the gender.other enum value"
+  },
+  "hint_first_name": "First Name",
+  "@hint_first_name": {
+    "description": "The hint shown on the first name text field"
+  },
+  "hint_last_name": "Last Name",
+  "@hint_last_name": {
+    "description": "The hint shown on the last name text field"
+  },
+  "hint_birth_date": "Birth Date",
+  "@hint_birth_date": {
+    "description": "The hint shown on the birth date text field"
+  },
+  "hint_books_picker": "Pick a quantity",
+  "@hint_books_picker": {
+    "description": "The hint shown on the books picker text field"
+  },
+  "label_first_name": "First Name",
+  "@label_first_name": {
+    "description": "The label shown on the first name text field"
+  },
+  "label_last_name": "Last Name",
+  "@label_last_name": {
+    "description": "The label shown on the last name text field"
+  },
+  "label_birth_date": "Birth Date",
+  "@label_birth_date": {
+    "description": "The label shown on the birth date text field"
+  },
+  "label_gender": "Gender",
+  "@label_gender": {
+    "description": "The label shown on the gender radio group"
+  },
+  "label_books_picker": "Number of books",
+  "@label_books_picker": {
+    "description": "The label shown on the books picker text field"
+  },
+  "label_summary": "Summary",
+  "@label_summary": {
+    "description": "The label in the summary page"
+  },
+  "label_price": "Price",
+  "@label_price": {
+    "description": "The label that describes the price of the picked books"
+  },
+  "title_summary_page": "Summary",
+  "@title_summary": {
+    "description": "The title of the summary page"
+  },
+  "title_subscription_page": "Subscribe",
+  "@title_subscription": {
+    "description": "The title of the subscription page"
+  },
+  "label_books_number": "You picked {count,plural, =1{one book} other{{count} books}}",
+  "@label_books_number": {
+    "description": "The label that shows the quantity of picked books",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "label_welcome_male": "Welcome {firstName}!",
+  "@label_welcome_male": {
+    "description":"The label shown in the summary page to welcome the male subscriber",
+    "placeholders": {
+      "firstName": {
+        "type": "String"
+      }
+    }
+  },
+  "label_welcome_female": "Welcome {firstName}!",
+  "@label_welcome_female": {
+    "description":"The label shown in the summary page to welcome the female subscriber",
+    "placeholders": {
+      "firstName": {
+        "type": "String"
+      }
+    }
+  },
+  "label_welcome_other": "Welcome {firstName}!",
+  "@label_welcome_other": {
+    "description":"The label shown in the summary page to welcome the other subscriber",
+    "placeholders": {
+      "firstName": {
+        "type": "String"
+      }
+    }
+  }
+}

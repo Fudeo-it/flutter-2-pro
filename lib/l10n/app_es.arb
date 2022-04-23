@@ -1,0 +1,29 @@
+{
+  "action_submit": "Suscribirse",
+
+  "gender_male": "Hombre",
+  "gender_female": "Mujer",
+  "gender_other": "Otro",
+
+  "hint_first_name": "Nombre",
+  "hint_last_name": "Apellido",
+  "hint_birth_date": "Fecha de nacimiento",
+  "hint_books_picker": "Elige una cantidad",
+
+  "label_first_name": "Nombre",
+  "label_last_name": "Apellido",
+  "label_birth_date": "Fecha de nacimiento",
+  "label_gender": "Sexo",
+  "label_books_picker": "Número de Libros",
+
+  "label_summary": "Resumen",
+  "label_price": "Precio",
+
+  "title_summary_page": "Resumen",
+  "title_subscription_page": "Suscribirse",
+
+  "label_books_number": "{count,plural, =0{No recibiste ningùn libro} =1{Recibiste un libro} other{Recibiste {count} libros}}",
+  "label_welcome_male": "¡Bienvenido {firstName}!",
+  "label_welcome_female": "¡Bienvenido {firstName}!",
+  "label_welcome_other": "¡Hola {firstName}!"
+}
